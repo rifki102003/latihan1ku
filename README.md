@@ -34,7 +34,7 @@ menghasilkan output sebagai berikut:<p>
 ![gambar 4](screenshot/contoh.PNG)
 
  Berikut Program nya:<p>
-![gambar 5](screenshot/lat3.PNG)
+![gambar 5](screenshot/lat5.PNG)
 Berikut untuk output dari program tersebut:
     
     C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/perulangantingkat.py
@@ -56,7 +56,8 @@ Berikut untuk output dari program tersebut:
   • anda bisa menggunakan kombinasi while dan for untuk 
     menyelesaikannya<p>
 ![gambar 6](screenshot/contoh2.PNG)
-    
+Berikut adalah program nya:<p>
+![gambar 7](screenshot/lat3.PNG)
     import random
 
     print(40 * "=")
